@@ -1,0 +1,21 @@
+{
+    "name": "dark-rainbow",
+    "displayName": "dark rainbow",
+    "description": "dark wainbow theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dark rainbow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark rainbow-color-theme.json"
+            }
+        ]
+    }
+}
